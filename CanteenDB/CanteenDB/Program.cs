@@ -1,7 +1,14 @@
+using CanteenDB.Models;
+using CanteenDB.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.Configure<CanteenDatabaseSettings>(
+    builder.Configuration.GetSection("CanteenDatabase"));
+
+builder.Services.AddSingleton<CanteenService>();
 
 var app = builder.Build();
 

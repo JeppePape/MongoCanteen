@@ -8,7 +8,7 @@ using MongoDB.Bson.Serialization.Attributes;
 
 namespace CanteenDB.Models
 {
-    internal class Canteen
+    public class Canteen
     {
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]

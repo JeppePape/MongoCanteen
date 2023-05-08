@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeppe\\Documents\\GitHub\\CanteenDB\\CanteenDB\\CanteenDB\\CanteenDB.csproj": {}
+    "C:\\Users\\jeppe\\Documents\\GitHub\\CanteenDB\\MongoCanteen\\CanteenDB\\CanteenDB\\CanteenDB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeppe\\Documents\\GitHub\\CanteenDB\\CanteenDB\\CanteenDB\\CanteenDB.csproj": {
+    "C:\\Users\\jeppe\\Documents\\GitHub\\CanteenDB\\MongoCanteen\\CanteenDB\\CanteenDB\\CanteenDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeppe\\Documents\\GitHub\\CanteenDB\\CanteenDB\\CanteenDB\\CanteenDB.csproj",
+        "projectUniqueName": "C:\\Users\\jeppe\\Documents\\GitHub\\CanteenDB\\MongoCanteen\\CanteenDB\\CanteenDB\\CanteenDB.csproj",
         "projectName": "CanteenDB",
-        "projectPath": "C:\\Users\\jeppe\\Documents\\GitHub\\CanteenDB\\CanteenDB\\CanteenDB\\CanteenDB.csproj",
+        "projectPath": "C:\\Users\\jeppe\\Documents\\GitHub\\CanteenDB\\MongoCanteen\\CanteenDB\\CanteenDB\\CanteenDB.csproj",
         "packagesPath": "C:\\Users\\jeppe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeppe\\Documents\\GitHub\\CanteenDB\\CanteenDB\\CanteenDB\\obj\\",
+        "outputPath": "C:\\Users\\jeppe\\Documents\\GitHub\\CanteenDB\\MongoCanteen\\CanteenDB\\CanteenDB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

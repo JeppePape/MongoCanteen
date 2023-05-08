@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JyY7Epjgg1x7A15uACc+3E3N/D4ToIXnGHSk15lTmFcQ4zYpcz94dZmZOHZGZEcxmR7mRp4FRB0Q+4WkbrfMYw==",
+  "dgSpecHash": "OECzCOIyuUMzmlwcHFFaNel34r3ZmcmQqACOrF2w5p4WWC0OobeqDTjEiPlRGuHhiwr+iRhteGmcvOF1GFTeXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeppe\\Documents\\GitHub\\CanteenDB\\CanteenDB\\CanteenDB\\CanteenDB.csproj",
+  "projectFilePath": "C:\\Users\\jeppe\\Documents\\GitHub\\CanteenDB\\MongoCanteen\\CanteenDB\\CanteenDB\\CanteenDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeppe\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\jeppe\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
