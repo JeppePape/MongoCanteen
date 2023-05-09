@@ -12,6 +12,7 @@ namespace CanteenDB.Models
     {
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
+        public string? _id { get; set; }
         public string? CanteenName { get; set; }
 
         public float AvgRating { get; set; }
